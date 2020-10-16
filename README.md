@@ -1,6 +1,6 @@
-Java Mini Project: II Year Sem 3 CSE C
+# PG Admission Predictor using Linear Regression in Java
 
-PG Admission Predictor using Linear Regression in Java
+### Java Mini Project: II Year Sem 3 CSE C
 
 The classes (within their respective packages) are in "./Mini Project/build/classes"
 
