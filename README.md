@@ -29,10 +29,10 @@ The classes (within their respective packages) are in "./Mini Project/build/clas
 
 (iii) Exception Classes:
 
-	GREException - for invalid GRE Scores
+	GREException    - for invalid GRE Scores
 	RESEXPException - for invalid Research Experience Values
 	TOEFLEXception	-  for invalid TOEFL Scores
-	CGPAException - for invalid CGPA Values
+	CGPAException   - for invalid CGPA Values
 
 (iv) The MainWindow class (MainWindow.java) has the main function in it and the entire project can be run as follows:
 
@@ -46,8 +46,7 @@ The classes (within their respective packages) are in "./Mini Project/build/clas
 3. Overloading - sum() and sum(int) in Matrix  
 4. Overriding - Custom Exception Classes override toString in Exception
 5. Polymorphism (from 3 and 4)
-6. Abstraction - Matrix/Vector methods are directly called in
-				 Model.java without their implementation being known.
+6. Abstraction - Matrix/Vector methods are directly called in Model.java without their implementation being known.
 
 (vi) Java Specific Concepts:
 
@@ -67,7 +66,7 @@ The classes (within their respective packages) are in "./Mini Project/build/clas
 
 1. The dataset we used to train the model is in the main project directory (as a .csv file) and was taken from Kaggle.
 
-Source: https://www.kaggle.com/mohansacharya/graduate-admissions
+		Source: https://www.kaggle.com/mohansacharya/graduate-admissions
 
 2. For actual running and deployment of the project, only the 'dist' directory and steps in (iv) are needed (all other directories are purely NetBeans and project related).
 
