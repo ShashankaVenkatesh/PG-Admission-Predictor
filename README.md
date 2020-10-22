@@ -72,5 +72,3 @@ The classes (within their respective packages) are in "./Mini Project/build/clas
 
 4. If there are package locating problems while compiling the classes individually, mention the classpath in the javac command as follows:
       javac -cp './Mini Project/build/classes' file.java
-
---------------------------------------------------------------------------------------------------------
