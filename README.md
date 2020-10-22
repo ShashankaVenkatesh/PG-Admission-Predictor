@@ -64,9 +64,7 @@ The classes (within their respective packages) are in "./Mini Project/build/clas
 
 (viii) Notes:
 
-1. The dataset we used to train the model is in the main project directory (as a .csv file) and was taken from Kaggle.
-
-		Source: https://www.kaggle.com/mohansacharya/graduate-admissions
+1. The dataset we used to train the model is in the main project directory (as a .csv file) and was taken from [Kaggle](https://www.kaggle.com/mohansacharya/graduate-admissions).
 
 2. For actual running and deployment of the project, only the 'dist' directory and steps in (iv) are needed (all other directories are purely NetBeans and project related).
 
